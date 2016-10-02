@@ -13,6 +13,20 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/home/kanungo/Downloads/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/kanungo/Desktop/Paypal/ReleaseTheFear/jar/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

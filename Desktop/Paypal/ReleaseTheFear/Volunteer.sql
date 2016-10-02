@@ -1,0 +1,1 @@
+CREATE TABLE VOLUNTEER (Applicant_Name VaRCHAR(20), Home_Phone INTEGER(11), Cell_Phone INTEGER(11), Address VaRCHAR(200), Zip INTEGER(10), Position VaRCHAR(20), Temp_Part VaRCHAR(20), Reg_part VaRCHAR(20), Available_day VaRCHAR(200));

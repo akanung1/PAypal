@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Donor Details</title>
+<h1> Details of the Donor</h1>
+</head>
+<body>
+<form action="VolunteerInsertServlet" method="POST" ">
+	<div class="row">
+		<label for="Applicant_Name">Your name:</label><br />
+		<input id="Applicant_Name" class="input" name="Applicant_Name" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="Home_Phone">Home_Phone:</label><br />
+		<input id="Home_Phone" class="input" name="Home_Phone" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="Cell_Phone">Cell_Phone:</label><br />
+		<input id="Cell_phone" class="input" name="Cell_Phone" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="Address">Address:</label><br />
+		<input id="Address" class="input" name="Address" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="Zip">Zip:</label><br />
+		<input id="Zip" class="input" name="Zip" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="Position">Position Applying for:</label><br />
+		<input id="Position" class="input" name="Position" type="text" value="" size="30" /><br />
+	</div>
+
+	
+	<div class="row">
+	<label for="Temp_Part">Select Temporary/Part Time:</label><br />
+  <input type="radio" name="T1" id = "T1" value="Yes"> Yes<br>
+  <input type="radio" name="T1" id = "T1" value="No"> No<br>
+	</div>
+	
+	<div class="row">
+	<label for="Reg_part">Select Regular/Part Time:</label><br />
+  <input type="radio" name="R1" id="R1" value="Yes"> Yes<br>
+  <input type="radio" name="R1" id ="R1" value="No"> No<br>
+	</div>
+	
+
+	<div style="padding-bottom: 18px;">Which days can you work?<br/>
+      <span><input type="checkbox" id="days1" name="days1" value="Monday"/> Monday</span><br/>
+      <span><input type="checkbox" id="days2" name="days2" value="Tuesday"/> Tuesday</span><br/>
+      <span><input type="checkbox" id="days3" name="days3" value="Wednesday"/> Wednesday</span><br/>
+      <span><input type="checkbox" id="days4" name="days4" value="Thursday"/> Thursday</span><br/>
+      <span><input type="checkbox" id="days5" name="days5" value="Friday"/> Friday</span><br/>
+      <span><input type="checkbox" id="days6" name="days6" value="Saturday"/> Saturday</span><br/>
+   </div>
+	<input id="submit_button" type="submit" value="Submit" />
+</form>
+</body>
+</html>
+
+
+</body>
+</html>
