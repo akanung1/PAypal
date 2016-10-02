@@ -22,7 +22,7 @@ public class ExportData {
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost/release_the_fear","root","*#*#ganesh*#*#123");
             Statement statement = con.createStatement();
             FileOutputStream fileOut;
-            fileOut = new FileOutputStream("file.xls");
+            fileOut = new FileOutputStream("file_Donator.xls");
             HSSFWorkbook workbook = new HSSFWorkbook();
             HSSFSheet worksheet = workbook.createSheet("Sheet 0");
             Row row1 = worksheet.createRow((short)0);
